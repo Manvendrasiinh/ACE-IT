@@ -1,5 +1,7 @@
 # ACE IT - Flutter Interview Preparation App
 
+<img src="https://raw.githubusercontent.com/Manvendrasiinh/Manvendrasiinh/main/Assets/MockUp.png" alt="Loading...">
+
 ## Overview
 **ACE IT** is your ultimate companion for mastering technical interviews. Whether you’re gearing up for a coding interview, brushing up on your knowledge of frameworks, or expanding your database expertise, ACE IT has you covered. With a wide selection of programming languages, frameworks, and databases to choose from, you can customize your learning experience to fit your specific needs. The app utilizes Firebase Firestore to provide a seamless and efficient user experience.
 
